@@ -1,0 +1,16 @@
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADAA.txt -O AD/ADAA.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADAB.txt -O AD/ADAB.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADAC.txt -O AD/ADAC.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADAD.txt -O AD/ADAD.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADBA.txt -O AD/ADBA.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADBB.txt -O AD/ADBB.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADBC.txt -O AD/ADBC.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADBD.txt -O AD/ADBD.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADCA.txt -O AD/ADCA.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADCB.txt -O AD/ADCB.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADCC.txt -O AD/ADCC.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADCD.txt -O AD/ADCD.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADEA.txt -O AD/ADEA.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADEB.txt -O AD/ADEB.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADEC.txt -O AD/ADEC.txt
+mkdir -pv AD && wget http://irwinlab2.ucsf.edu/2D/AD/ADED.txt -O AD/ADED.txt
